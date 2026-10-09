@@ -9,11 +9,11 @@ I'm **Taha Abderrahmen MILIANI**, an IT Engineering student at **ENSTICP** speci
 
  **Core Tools:** Power BI, Power Query, Microsoft SQL Server, MySQL Workbench
  **Technical Skills:** Data Cleaning (ETL), Basic DAX Modeling, SQL Joins & Aggregations, Exploratory Data Analysis (EDA), KPI Reporting
-* 💼 **Upwork Services:** Interactive Power BI Dashboards
+ **Upwork Services:** Interactive Power BI Dashboards
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Data-Analysis-Projects/
